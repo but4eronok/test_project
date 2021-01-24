@@ -18,6 +18,8 @@ public class test {
 	                 break;
 	        case 7:  season = "Воскресенье";
 	                 break;
+	        case 8:  season = "drift";
+	                 break;
 	        default: season = "Ошибка";
 	                 break;
 	    }
